@@ -377,4 +377,4 @@ def main():
 if __name__ == '_main_':
     print("🔑 Make sure to set your GEMINI_API_KEY in the code!")
     print("🚀 Starting Farmer Advisory System...\n")
-main()
+    main()
